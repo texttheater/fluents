@@ -14,7 +14,7 @@ Usage
 
 To use the pinyin module in your program, include this line:
 
-    :- use_module(library(pinyin)).
+    :- use_module(library(fluents)).
 
 For further documentation, please refer to the module documentation at
 http://www.swi-prolog.org/pack/file_details/fluents/prolog/fluents.pl
