@@ -12,7 +12,7 @@ simply install this pack by entering the following at the SWI-Prolog prompt.
 Usage
 -----
 
-To use the pinyin module in your program, include this line:
+To use the fluents module in your program, include this line:
 
     :- use_module(library(fluents)).
 
